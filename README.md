@@ -28,7 +28,7 @@ Sistema web desenvolvido com Vite, React e TypeScript para visualização de cli
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario-clientes.git
+   git clone https://github.com/caiquealmr/sistema-bancario-clientes.git
    cd sistema-bancario-clientes
    ```
 
