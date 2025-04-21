@@ -1,5 +1,7 @@
 # Sistema Bancário
 
+Acesse o sistema online: [https://sistema-bancario-clientes.vercel.app/](https://sistema-bancario-clientes.vercel.app/)
+
 Sistema web desenvolvido com Vite, React e TypeScript para visualização de clientes, contas e agências bancárias, com dados dinâmicos provenientes de uma planilha Google em tempo real.
 
 ## Funcionalidades
@@ -50,10 +52,6 @@ Sistema web desenvolvido com Vite, React e TypeScript para visualização de cli
    http://localhost:5173
    ```
 
-## Deploy
-
-O sistema pode ser publicado facilmente no Vercel ou Netlify, com suporte completo a rotas dinâmicas, responsividade e modo escuro.
-
 ## Organização de Pastas
 
 ```txt
@@ -97,5 +95,3 @@ src/
 Este sistema bancário foi desenvolvido com foco em desempenho, clareza e usabilidade. Utilizando tecnologias modernas como React, TypeScript, Vite e Tailwind CSS, a aplicação entrega uma experiência eficiente e responsiva, com leitura de dados em tempo real a partir do Google Sheets.
 
 A arquitetura do projeto prioriza a organização e a escalabilidade, garantindo que futuras melhorias e integrações possam ser realizadas com facilidade. O código segue boas práticas de tipagem, acessibilidade e responsividade, sendo ideal para ambientes reais ou acadêmicos.
-
-
