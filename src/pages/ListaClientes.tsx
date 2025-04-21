@@ -3,7 +3,7 @@ import { Cliente } from "../types/interfaces";
 import { getClientes } from "../services/api";
 import ClienteCard from "../components/ClienteCard";
 import FiltroPesquisa from "../components/FiltroPesquisa";
-import Pagination from "../components/PAgination";
+import Pagination from "../components/Pagination";
 
 function ListaClientes() {
   const [clientes, setClientes] = useState<Cliente[]>([]);
